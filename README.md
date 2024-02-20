@@ -1,2 +1,2 @@
 # CV
-Curriculum vitae 
+Curriculum vitae - Wojciech Kwiatkowski
