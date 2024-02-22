@@ -1,8 +1,8 @@
 
 body, html
 {
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
     font-family: 'Open Sans', sans-serif;
     background-color:white;
 }
@@ -35,7 +35,45 @@ header
 .break_line
 {
     border: 1px rgb(99, 144, 212) solid;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-bottom: 25px;
+}
+
+.fat_line
+{
+    border: 3px rgb(99, 144, 212) solid;
     margin-top: 50px;
+    margin-bottom: 50px;
     margin-left: 7%;
     margin-right:7%;
+}
+
+.info
+{
+    h3
+    {
+        color:rgb(99, 144, 212);
+        margin-left: 80px;
+        margin-bottom: 1px;
+    }
+
+    p
+    {
+        text-align: left;
+        margin-left: 90px;
+        margin-right: 90px;
+        margin-bottom: 25px;
+    }
+
+    #school
+    {
+        margin-left: 90px;
+        margin-bottom: 25px;
+    }
+
+    ol
+    {
+        margin-left: 90px;
+    }
 }
