@@ -35,18 +35,18 @@ header
 .break_line
 {
     border: 1px rgb(99, 144, 212) solid;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin-left: 70px;
+    margin-right: 70px;
     margin-bottom: 25px;
 }
 
 .fat_line
 {
-    border: 3px rgb(99, 144, 212) solid;
+    border: 2px rgb(99, 144, 212) solid;
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 7%;
-    margin-right:7%;
+    margin-left: 40px;
+    margin-right:40px;
 }
 
 .info
